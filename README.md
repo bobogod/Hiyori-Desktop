@@ -1,4 +1,4 @@
-The Hiyori Desktop is a custom-made desktop with the cute Hiyori standing by your side and helps you with some easy work.  
+The Hiyori Desktop is a custom-made desktop with the cute Hiyori standing by your side and helping you with some easy work.  
 ### Functions: 
 1. Appllication based (which means you need to add some applications icons to the desktop in order to use them)  
 2. Cute Hiyori Live2d model on the left, voice and a few click interactions available 
