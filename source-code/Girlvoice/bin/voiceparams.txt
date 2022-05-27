@@ -1,0 +1,1 @@
+voice_name = aisbabyxu, text_encoding = utf-8, sample_rate = 16000, speed = 50, volume = 50, pitch = 50, rdn = 2

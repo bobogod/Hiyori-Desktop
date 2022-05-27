@@ -1,0 +1,51 @@
+============================================================
+Time  2019/06/09 22:55:48 007 
+============================================================
+[2019/06/09 22:55:48 009] tts        811  SYS_MSG_REGCB param0 =  msp_status_cb  param1 =  func(12bcb30) 
+[2019/06/09 22:55:48 035] config     43   use general cloud  
+[2019/06/09 22:55:48 046] tts_cloud  1438 SYS_MSG_REGCB_CLOUD param0 =   msp_status_cb  param1 =  func(12bcb30) 
+[2019/06/09 22:55:48 046] tts        782  TTS_MSG_SSB  
+[2019/06/09 22:55:48 046] tts        434  params =  voice_name = aisbabyxu, text_encoding = utf-8, sample_rate = 16000, speed = 50, volume = 50, pitch = 50, rdn = 2  
+[2019/06/09 22:55:48 046] tts        273  auf=audio/L16;rate=16000  
+[2019/06/09 22:55:48 046] tts        273  auf=audio/L16;rate=16000  
+[2019/06/09 22:55:48 046] tts        475  ssb|use cloud  
+[2019/06/09 22:55:48 048] tts_cloud  1409 SYS_MSG_LOAD_CLOUD  
+[2019/06/09 22:55:48 048] tts_cloud  964  TTS_MSG_SSB_CLOUD  
+[2019/06/09 22:55:48 048] tts_cloud  987  tts  ctts1P1HHBHT6p8flPAcVaadp6C7LWFKwvt  268436457  1552301830  
+[2019/06/09 22:55:48 056] tts_cloud  1033 not login!  
+[2019/06/09 22:55:48 056] tts_cloud  1164 need_decode  true  
+[2019/06/09 22:55:48 056] tts_cloud  1165 aue=  speex-wb;7   auf=  audio/L16;rate=16000  
+[2019/06/09 22:55:48 118] tts_cloud  1187 User set url is   nil  
+[2019/06/09 22:55:48 118] config     91   select default  
+[2019/06/09 22:55:48 118] config     113  use general cloud  
+[2019/06/09 22:55:48 118] transport  645  paramkvsport is   nil  
+[2019/06/09 22:55:48 118] transport  657  ns_enable=  1  
+[2019/06/09 22:55:48 118] transport  659  2017-08--24 is_ns_need_close =   nil  
+[2019/06/09 22:55:48 118] transport  665  net.nettype=  unknown  
+[2019/06/09 22:55:48 118] transport  675  url.full=  nil  
+[2019/06/09 22:55:48 118] transport  680  server_url_host=, server_url_port=, server_url_path=  open.xf-yun.com  nil  /msp.do  
+[2019/06/09 22:55:48 118] transport  907  net type:  unknown  
+[2019/06/09 22:55:48 118] transport  908  net operator:  def  
+[2019/06/09 22:55:48 118] transport  909  use proxy:  false  
+[2019/06/09 22:55:48 118] transport  1105 session.domain=  open.xf-yun.com  
+[2019/06/09 22:55:48 118] transport  1106 url.host=  open.xf-yun.com  
+[2019/06/09 22:55:48 118] network    90   ipfromenv ,  ipcache  open.xf-yun.com  def  nil  
+[2019/06/09 22:55:48 118] transport  1179 try preferred port:  nil  
+[2019/06/09 22:55:48 119] transport  1083 NAMESERVER START  
+[2019/06/09 22:55:48 119] transport  1086 name =   tts  
+[2019/06/09 22:55:48 119] ns         634  ntt=  unknown  
+[2019/06/09 22:55:48 119] transport  1089 trans,ns_inprog =  0  
+[2019/06/09 22:55:48 119] ns         582  name server start  
+[2019/06/09 22:55:48 119] ns         588  ns_sub =   tts  
+[2019/06/09 22:55:48 119] ns         596  ns_host =   open.xf-yun.com  
+[2019/06/09 22:55:48 119] ns         475  ns_host=  open.xf-yun.com  
+[2019/06/09 22:55:48 119] ns         555  net_type =  standard  
+[2019/06/09 22:55:48 121] ns         556  cmwapascmnet =  
+[2019/06/09 22:55:48 121] ns         557  uniwapasuninet =  
+[2019/06/09 22:55:48 121] ns         558  ctwapasctnet =  
+[2019/06/09 22:55:48 121] ns         576  host=  hdns.xf-yun.com  
+[2019/06/09 22:55:48 121] network    263  gethostbyname  hdns.xf-yun.com  ns1  
+[2019/06/09 22:55:48 151] tts        795  TTS_MSG_SSE  
+[2019/06/09 22:55:48 151] tts        767  sse|use cloud  
+[2019/06/09 22:55:48 151] tts_cloud  1305 TTS_MSG_SSE_CLOUD  
+[2019/06/09 22:55:48 151] tts_cloud  853  tts session info  

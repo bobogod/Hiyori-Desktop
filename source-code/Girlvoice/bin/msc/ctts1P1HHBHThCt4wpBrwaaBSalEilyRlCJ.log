@@ -1,0 +1,177 @@
+============================================================
+Time  2019/06/03 13:36:34 543 
+============================================================
+[2019/06/03 13:36:34 545] tts        811  SYS_MSG_REGCB param0 =  msp_status_cb  param1 =  func(1bfe9e0) 
+[2019/06/03 13:36:34 551] config     43   use general cloud  
+[2019/06/03 13:36:34 559] tts_cloud  1438 SYS_MSG_REGCB_CLOUD param0 =   msp_status_cb  param1 =  func(1bfe9e0) 
+[2019/06/03 13:36:34 559] tts        782  TTS_MSG_SSB  
+[2019/06/03 13:36:34 559] tts        434  params =  voice_name = aisbabyxu, text_encoding = gb2312, sample_rate = 8000, speed = 50, volume = 50, pitch = 50, rdn = 2  
+[2019/06/03 13:36:34 559] tts        273  auf=audio/L16;rate=8000  
+[2019/06/03 13:36:34 559] tts        273  auf=audio/L16;rate=8000  
+[2019/06/03 13:36:34 559] tts        475  ssb|use cloud  
+[2019/06/03 13:36:34 559] tts_cloud  1409 SYS_MSG_LOAD_CLOUD  
+[2019/06/03 13:36:34 559] tts_cloud  964  TTS_MSG_SSB_CLOUD  
+[2019/06/03 13:36:34 561] tts_cloud  987  tts  ctts1P1HHBHThCt4wpBrwaaBSalEilyRlCJ  268436457  1552301830  
+[2019/06/03 13:36:34 571] tts_cloud  1033 not login!  
+[2019/06/03 13:36:34 571] tts_cloud  1164 need_decode  true  
+[2019/06/03 13:36:34 571] tts_cloud  1165 aue=  speex;7   auf=  audio/L16;rate=8000  
+[2019/06/03 13:36:34 575] tts_cloud  1187 User set url is   nil  
+[2019/06/03 13:36:34 575] config     91   select default  
+[2019/06/03 13:36:34 575] config     113  use general cloud  
+[2019/06/03 13:36:34 575] transport  645  paramkvsport is   nil  
+[2019/06/03 13:36:34 575] transport  657  ns_enable=  1  
+[2019/06/03 13:36:34 575] transport  659  2017-08--24 is_ns_need_close =   nil  
+[2019/06/03 13:36:34 575] transport  665  net.nettype=  unknown  
+[2019/06/03 13:36:34 575] transport  675  url.full=  nil  
+[2019/06/03 13:36:34 575] transport  680  server_url_host=, server_url_port=, server_url_path=  open.xf-yun.com  nil  /msp.do  
+[2019/06/03 13:36:34 575] transport  907  net type:  unknown  
+[2019/06/03 13:36:34 576] transport  908  net operator:  def  
+[2019/06/03 13:36:34 576] transport  909  use proxy:  false  
+[2019/06/03 13:36:34 578] transport  1105 session.domain=  open.xf-yun.com  
+[2019/06/03 13:36:34 578] transport  1106 url.host=  open.xf-yun.com  
+[2019/06/03 13:36:34 578] network    90   ipfromenv ,  ipcache  open.xf-yun.com  def  nil  
+[2019/06/03 13:36:34 579] transport  1179 try preferred port:  nil  
+[2019/06/03 13:36:34 579] transport  1083 NAMESERVER START  
+[2019/06/03 13:36:34 579] transport  1086 name =   tts  
+[2019/06/03 13:36:34 579] ns         634  ntt=  unknown  
+[2019/06/03 13:36:34 579] transport  1089 trans,ns_inprog =  0  
+[2019/06/03 13:36:34 579] ns         582  name server start  
+[2019/06/03 13:36:34 579] ns         588  ns_sub =   tts  
+[2019/06/03 13:36:34 581] ns         596  ns_host =   open.xf-yun.com  
+[2019/06/03 13:36:34 581] ns         475  ns_host=  open.xf-yun.com  
+[2019/06/03 13:36:34 582] ns         555  net_type =  standard  
+[2019/06/03 13:36:34 582] ns         556  cmwapascmnet =  
+[2019/06/03 13:36:34 582] ns         557  uniwapasuninet =  
+[2019/06/03 13:36:34 589] ns         558  ctwapasctnet =  
+[2019/06/03 13:36:34 589] ns         576  host=  hdns.xf-yun.com  
+[2019/06/03 13:36:34 589] network    263  gethostbyname  hdns.xf-yun.com  ns1  
+[2019/06/03 13:36:34 592] tts        789  TTS_MSG_SYN  0  
+[2019/06/03 13:36:34 592] tts        541  synth|use cloud  
+[2019/06/03 13:36:34 592] tts_cloud  1207 TTS_MSG_SYN_CLOUD  
+[2019/06/03 13:36:34 592] tts_cloud  1218 remote_connected =  false  
+[2019/06/03 13:36:34 595] tts        792  TTS_MSG_GETAUDIO  0  
+[2019/06/03 13:36:34 595] tts        674  get audio|use cloud  
+[2019/06/03 13:36:34 595] tts_cloud  1302 TTS_MSG_GETAUDIO_CLOUD | synth_status  1  
+[2019/06/03 13:36:34 614] network    245  dns resp  0  ns1  
+[2019/06/03 13:36:34 614] ns         422  ns dns ok  42.62.116.34  
+[2019/06/03 13:36:34 614] ns         202  iplist not avail  
+[2019/06/03 13:36:34 615] ns         429  is_voicecloud_ip=  0  
+[2019/06/03 13:36:34 615] ns         436  ip_is_expected=  true  
+[2019/06/03 13:36:34 615] ns         444  ip_is_expected=  true  
+[2019/06/03 13:36:34 615] network    445  gethttpresp2  42.62.116.34  80  ns2  
+[2019/06/03 13:36:34 615] network    465  prot_type  tcp  
+[2019/06/03 13:36:34 618] transport  194  [dns] [1] response 59.107.24.13  
+[2019/06/03 13:36:34 618] transport  202  59  107  24  13  
+[2019/06/03 13:36:34 618] transport  204  ipv =  v4  
+[2019/06/03 13:36:34 621] transport  208  dns ip is v4  
+[2019/06/03 13:36:34 621] transport  130  iplist not avail  
+[2019/06/03 13:36:34 621] transport  247  no iplist now  
+[2019/06/03 13:36:34 622] network    95   iptoenv ,  ipcache  open.xf-yun.com  def  59.107.24.13  
+[2019/06/03 13:36:34 628] transport  291  dns cb start conn  
+[2019/06/03 13:36:34 628] transport  1304 [soc] connect   59.107.24.13  1028  
+[2019/06/03 13:36:34 628] transport  1316 mspsoc.open,prot_type=  tcp  
+[2019/06/03 13:36:34 640] network    350  connected  ns2  
+[2019/06/03 13:36:34 641] network    353  send ok  268  ns2  
+[2019/06/03 13:36:34 648] network    362  readable  ns2  
+[2019/06/03 13:36:34 648] network    366  HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2019 05:36:29 GMT
+Content-Type: application/json
+Content-Length: 308
+Connection: keep-alive
+Server: iflytek/hdns
+
+{"dns":[{"host":"open.xf-yun.com","sip":[{"svc":"tts","ips":[{"ip":"42.62.116.18","port":80,"idc":"dx"},{"ip":"42.62.116.34","port":80,"idc":"dx"}],"ttl":6000,"compel":0}]}],"default":[{"host":"open.xf-yun.com","sip":[{"svc":"tts","ips":[{"ip":"42.62.116.34","port":80,"idc":"dx"}],"ttl":6000,"compel":0}]}]}  
+[2019/06/03 13:36:34 664] ns         253  name server http resp  0  
+[2019/06/03 13:36:34 664] ns         266  ns response OK for this time!  
+[2019/06/03 13:36:34 664] ns         277  from_server=  iflytek/hdns  
+[2019/06/03 13:36:34 667] ns         360  compel :  0  
+[2019/06/03 13:36:34 670] transport  1063 ns_ip =   42.62.116.18  
+[2019/06/03 13:36:34 670] transport  1064 ip_type =  assigned_ttsopen.xf-yun.com_host  
+[2019/06/03 13:36:34 670] ns         670  no data in ns_q  
+[2019/06/03 13:36:34 670] ns         671  conti_ns,ns_inprog =   1  
+[2019/06/03 13:36:34 676] transport  473  [soc] [1] connected  
+[2019/06/03 13:36:34 676] tts_cloud  296  text =  udata(1c09b60) 
+[2019/06/03 13:36:34 676] tts_cloud  724  send ssb request  
+[2019/06/03 13:36:34 676] tts_cloud  589  lver:  nil  
+[2019/06/03 13:36:34 676] tts_cloud  594  cfg_ver:  nil  
+[2019/06/03 13:36:34 677] transport  1860 transport_obj.send | in  
+[2019/06/03 13:36:34 677] transport  1866 self.msg_flag_q  table(1c08240) 
+[2019/06/03 13:36:34 677] transport  1867 self.msg_q  table(1c08200) 
+[2019/06/03 13:36:34 677] transport  1799 transport_obj.try2send | in  
+[2019/06/03 13:36:34 677] transport  1800 self.soc  udata(1bad1e8) 
+[2019/06/03 13:36:34 677] transport  1801 self.connected  false  
+[2019/06/03 13:36:34 677] transport  1802 self.latesterr  0  
+[2019/06/03 13:36:34 677] transport  1873 transport_obj.send | out  
+[2019/06/03 13:36:34 677] transport  1799 transport_obj.try2send | in  
+[2019/06/03 13:36:34 677] transport  1800 self.soc  udata(1bad1e8) 
+[2019/06/03 13:36:34 677] transport  1801 self.connected  true  
+[2019/06/03 13:36:34 677] transport  1802 self.latesterr  0  
+[2019/06/03 13:36:34 677] transport  1819 transport:try2send,#msg_q=  1  
+[2019/06/03 13:36:34 677] transport  1359 build http request.  
+[2019/06/03 13:36:34 678] transport  1476 POST /msp.do HTTP/1.1
+X-Sub: tts
+X-Par: ver=MSSP+0%2E9&sub=tts&cmd=ssb&aue=speex%3B7&auf=audio%2FL16%3Brate%3D8000&cver=5%2E0%2E42%2E1226&net%5Ftype=unknown&csid=ctts1P1HHBHThCt4wpBrwaaBSalEilyRlCJ&key=0c4G4KJ85svIwIYX6zfDJlig==
+Host: open.xf-yun.com
+CT: multipart/mixed;boundary=--
+CL: 500
+
+----
+Content-Length:32
+Content-Type:binary/synth+text
+Content-Encoding:gzip,encrypt/0.2
+
+–è€◊I-ÌﬂO˛á˙C⁄BQ÷5_<6  
+[2019/06/03 13:36:34 681] transport  1819 transport:try2send,#msg_q=  0  
+[2019/06/03 13:36:34 681] transport  482  [soc] [1] send ok  799  
+[2019/06/03 13:36:34 681] transport  1799 transport_obj.try2send | in  
+[2019/06/03 13:36:34 681] transport  1800 self.soc  udata(1bad1e8) 
+[2019/06/03 13:36:34 681] transport  1801 self.connected  true  
+[2019/06/03 13:36:34 681] transport  1802 self.latesterr  0  
+[2019/06/03 13:36:34 681] transport  1819 transport:try2send,#msg_q=  0  
+[2019/06/03 13:36:34 753] tts        792  TTS_MSG_GETAUDIO  0  
+[2019/06/03 13:36:34 753] tts        674  get audio|use cloud  
+[2019/06/03 13:36:34 753] tts_cloud  1302 TTS_MSG_GETAUDIO_CLOUD | synth_status  1  
+[2019/06/03 13:36:34 819] transport  494  [soc] [1] readable  
+[2019/06/03 13:36:34 819] transport  1767 HTTP/1.1 200 OK
+Content-Length: 2816
+X-Req-Date: 2019/06/03 13:36:29 87
+X-Par: ver=MSSP+0%2E9&ret=0&cver=5%2E0%2E42%2E1226&uid=d7964550348&ced=12&ofg=2&key=0frKpijAwl3/TYaMFeddif4UNLZQEbKiiPfxWkmMpdp0I^HBywnTxKrcyVyg8^ni2bw6^bpV4ZawTEzkaljFXhIBmhs5T9hkChxM5GpYxV4SA=
+CE: speex;7,encrypt/0.2
+CT: binary/audio
+CL: 2816
+Content-Length: 2816
+X-Res-Date: 2019/06/03 13:36:29 174
+
+mvHR:≥ñããããã¯≠ò»‚ ›ık®‚>≤≥˘ñPÃƒÜsRZı^Ó÷Áﬂ/"!µá]Ω≈'xû—BZS◊Jfå¬›Tï≈è∆°iCR\h#ÂDõˇú‘YhÈTıπyzÀ‰4˙‹‚É^é∞£Æ”C∂¬R_˙¸∆‰
+”@i’UÅ‡Î“ŒAÒÙ¬¨ªQßÌ‡¥ˇü…©R\πædd· µ  
+[2019/06/03 13:36:34 819] transport  1767 gÓÕ°≤ı¡~GΩ•¿l<ÆﬁƒÇ"Æ-ß‰CR]vtÕÂÁ≥:`êÒtÈÃÓˇ˝©œïwèsπ7s  
+[2019/06/03 13:36:34 819] transport  1767 ss•Æ¬î4ÄvﬂH∫SRX©-ïó{“/ZÔÚíÛØüdë∏˜D ±pq€-µòÅV˚¿›hSR] ª≠Ôd’Pdí”‡c|ÿöz∞{pü)í›.¸›A¢≠Í™îRXuØc}h>"ÚøﬂÂ9,Dﬂpù±„Ê;ﬁqÈI◊fA&-]K„RZ©ÂÆmÕÂx?Äc¯`€a”LMaπkπnW\qH˚√RXµ':,oOÕü>1”;jNR‚Ú$”*ÀÊ≤wgÏ…<gLmÛR[Hˆˆ¬lñ}{å	Ωx•ZQVks≤#!~”Ω∏7#”:OãÉR[H˜à n®ÀÁ&ñ^ò2‡ª*ÙµÛö!|ùêYóØÂ«±å’*ÉR\SÍü  
+[2019/06/03 13:36:34 819] transport  1767 5ˆÉR\ ƒVæ<j}Îá	5–Œéµ∫<ƒÕ•πÁàÍÚC0+?„R[Ωb>8Àk…'˚âçgqM°é6O≈
+1êè¯—°tèX˝ÍD‹3R]∞ΩÓP[{ãŒ~I˛dk	~Õèe®≈!¡ô˜ê  
+[2019/06/03 13:36:34 821] transport  1494 a_complete_httpmessage  200  
+[2019/06/03 13:36:34 822] transport  1604 is_update  true  
+[2019/06/03 13:36:34 822] tts_cloud  317  [trans] [tts_cloudctts1P1HHBHThCt4wpBrwaaBSalEilyRlCJ] readable  
+[2019/06/03 13:36:34 822] tts_cloud  335  response  
+[2019/06/03 13:36:34 822] tts_cloud  392  sid =   tts60d00934@gz3c24104ffddd507100  
+[2019/06/03 13:36:34 823] tts_cloud  414  synth_parse_response| ssb time:  141  .  
+[2019/06/03 13:36:34 823] tts_cloud  415  text to first audio:  141  .  
+[2019/06/03 13:36:34 823] tts_cloud  428  text to last audio:  141  .  
+[2019/06/03 13:36:34 823] tts_cloud  429  ssb to sse:  141  .  
+[2019/06/03 13:36:34 832] network    90   ipfromenv ,  ipcache  open.xf-yun.com  def  59.107.24.13  
+[2019/06/03 13:36:34 832] transport  981  cached ip is confirmed  
+[2019/06/03 13:36:34 834] transport  1332 [soc] disconnect   
+[2019/06/03 13:36:34 859] transport  991  transport clean  
+[2019/06/03 13:36:34 859] tts_cloud  478  theory decode audiolen:  23040  ,ced:  12  ,markinfo:  nil  
+[2019/06/03 13:36:34 859] tts_cloud  479  audioinfo_rd:  0  ,audioinfo_num:  0  
+[2019/06/03 13:36:34 859] tts_cloud  793  aud_data:len()=  2808  
+[2019/06/03 13:36:34 887] tts_cloud  696  last audio  
+[2019/06/03 13:36:34 887] tts_cloud  703  u_aul =  23040  audiolen =  23040  
+[2019/06/03 13:36:34 887] tts_cloud  800  aud_data = nil  
+[2019/06/03 13:36:34 905] tts        792  TTS_MSG_GETAUDIO  0  
+[2019/06/03 13:36:34 905] tts        674  get audio|use cloud  
+[2019/06/03 13:36:34 905] tts_cloud  1242 actual decode audiolen:  23040  ,ced:  12  ,markinfo:  nil  
+[2019/06/03 13:36:34 905] tts_cloud  1302 TTS_MSG_GETAUDIO_CLOUD | synth_status  2  
+[2019/06/03 13:36:34 914] tts        795  TTS_MSG_SSE  
+[2019/06/03 13:36:34 914] tts        767  sse|use cloud  
+[2019/06/03 13:36:34 915] tts_cloud  1305 TTS_MSG_SSE_CLOUD  
+[2019/06/03 13:36:34 915] tts_cloud  853  tts session info  
