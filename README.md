@@ -12,7 +12,8 @@ C++, python
 
 ### Q&A:  
 1.  Why the voice feedback goes wrong?      
-    The voice and automatic reply functions are based on Internet which requires Turing Robots and Iflytek. I have not renewed for two years, thus it's likely to fail.  2.  May I modify some parts?      
+    The voice and automatic reply functions are based on Internet which requires Turing Robots and Iflytek. I have not renewed for two years, thus it's likely to fail.  
+2.  May I modify some parts?      
     Every change is welcomed and you do not need to contact me.  
 
 Last Updated 2019.9
